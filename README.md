@@ -4,7 +4,7 @@
 npm install
 npm start
 
-in case of any startup issue please make sure your local node version >= 10.16.0
+*In case of any startup issue please make sure your local node version >= 10.16.0
 ```
 
 
