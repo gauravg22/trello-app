@@ -4,7 +4,7 @@
 npm install
 npm start
 
-* Node version >= 10.16.0
+Node version >= 10.16.0
 ```
 
 
