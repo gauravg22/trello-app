@@ -1,0 +1,18 @@
+
+.board-wrapper{
+    height: 100vh;
+    padding: 20px;
+}
+
+.board-header{
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.board-content{
+    display: flex;
+    align-items: flex-start;
+}

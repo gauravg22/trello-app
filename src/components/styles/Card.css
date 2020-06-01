@@ -1,0 +1,60 @@
+
+.list-card{
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(9,30,66,.25);
+    cursor: pointer;
+    margin-bottom: 8px;
+    padding: 8px;
+    line-height: 22px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-delete-icon{
+    width: 14px;
+    height: 14px;
+}
+
+.list-card:hover .card-delete-icon{
+    display: initial;
+}
+
+.list-card-edit{
+    margin-bottom: 10px;
+}
+
+.card-add-input{
+    height: 50px;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    border: none;
+    width: 100%;
+    margin-bottom: 6px;
+    padding: 4px;
+    resize: none;
+    padding-left: 8px;
+    font-size: 14px;
+    outline: none;
+}
+
+.list-card-save{
+    font-size: 14px;
+    background-color: #5aac44;
+    border: none;
+    padding: 8px;
+    color: #fff;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.card-cancel-save{
+    display: inline-block;
+    transform: rotate(45deg);
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.card-cancel-save img{
+    width: 28px;
+}

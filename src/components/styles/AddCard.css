@@ -1,0 +1,14 @@
+
+.add-card{
+    color: #5e6c84;
+    margin-bottom: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.add-icon{
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+}

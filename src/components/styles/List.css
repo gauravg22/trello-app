@@ -1,0 +1,32 @@
+
+.list-wrapper{
+    background-color: #ebecf0;
+    border-radius: 3px;
+    margin: 5px 12px 0 0;
+    position: relative;
+    padding: 10px;
+    width: 280px;
+}
+
+.list-heading {
+    padding: 5px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.list-cards{
+    overflow-y: auto;
+    max-height: 70vh;
+}
+
+.list-cards.has-cards{
+    margin: 5px 0 10px 0;
+}
+
+.rotate-4{
+    transform: rotate(4deg);
+}
+
+.smooth-dnd-container {
+    min-height : 20px !important;
+}
